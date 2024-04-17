@@ -1,0 +1,1 @@
+This is a test thingy that I am making, it is a simple app for you to create files, and we are working on integrating an AI into it to be able to scan the contex of a file and edit any changes that should be made to fix grammar or coding issus.
